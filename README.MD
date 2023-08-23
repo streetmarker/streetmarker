@@ -1,6 +1,6 @@
-<p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=streetmarker&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&stroke=EB5454&background=45%2C923434%2C24698A)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=streetmarker&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&stroke=EB5454&background=45%2C923434%2C24698A)](https://git.io/streak-stats)
+<p align="center">
 <h4>
 
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="60">
