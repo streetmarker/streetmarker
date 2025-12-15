@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Software/IBM BPM Engineer<br>- 📚 I'm currently learning building full-stack applications with JS</p>
+<p align="left">- 🔭 I’m working as Software/IBM BPM Engineer<br>- 📚 I'm currently learning building full-stack applications with Java</p>
 
 ###
 
@@ -65,12 +65,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=streetmarker&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&stroke=EB5454&background=45%2C923434%2C24698A)](https://git.io/streak-stats)
 
